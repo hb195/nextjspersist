@@ -15,7 +15,7 @@ export default function Home() {
         />
         <ol>
           <li>
-            Did it work?? Get started by editing <code>src/app/page.tsx</code>.
+            Did it work??????? Get started by editing <code>src/app/page.tsx</code>.
           </li>
           <li>Save and see your changes instantly.</li>
         </ol>
